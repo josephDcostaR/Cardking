@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+
+}
+
+.headerHome{
+  color: white;
+  background-color: blueviolet;
+  font-size: 29px;
+  margin-bottom: 20px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+a {
+  color: #dfaf67;
+  text-decoration: none;
+}
+
+body {
+  background-color: rgb(235, 222, 245);
+  /* overflow: hidden; */
+}
+
+.logo {
+  max-height: 100px;
+  margin-bottom: 10px;
+}
+
+.titlehome {
+  text-align: center;
+  font-size:  30px;
+  color: #dfaf67;
+  margin-bottom: 10px;
+}
