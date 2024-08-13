@@ -19,13 +19,6 @@ O **CardShop** foi criado como um projeto para explorar e praticar habilidades e
 - **CSS3**: Para o estilo e layout das páginas.
 - **JavaScript**: Para interatividade básica.
 
-## Estrutura do Projeto
-├── index.html # Página inicial
-├── css/
-│ └── styles.css # Estilos da aplicação
-└── js/
-└── script.js # Scripts para interatividade
-
 ## Status do Projeto
 
 O **CardKing** está em desenvolvimento e, no momento, é apenas uma demonstração estática. Funcionalidades como adicionar ao carrinho, realizar pagamentos e finalizar compras ainda não foram implementadas.
